@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# PHP
+vendor/
+*.log
+*.cache
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDEs
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+*.sublime-workspace
+*.sublime-project
